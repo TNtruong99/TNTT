@@ -6,3 +6,6 @@
 # T6(15/10/2021)
 - Viết docs rocket.chat
 - Triển khai rocket.chat
+
+# T2(18/10/2021)
+- Làm lab tuần 2
