@@ -9,3 +9,7 @@
 - Tiến hành NAT port sv GitLab
 - Tiếp tục tìm hiểu NAT port.
 - Tiếp tục tìm hiểu dynu.
+
+## Thứ 2, ngày 18 tháng 10 năm 2021.
+- Nghiên cứu lab Petlab.
+- Nghiên cứu Nagios
