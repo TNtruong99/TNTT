@@ -9,3 +9,7 @@
 
 # T2(18/10/2021)
 - Làm lab tuần 2
+
+# T3(19/10/2021)
+- Nghiên cứu tích hợp gitlab vào rocket.chat
+- Tìm hiểu mattermost 
