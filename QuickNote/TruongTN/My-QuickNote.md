@@ -13,3 +13,8 @@
 ## Thứ 2, ngày 18 tháng 10 năm 2021.
 - Nghiên cứu lab Petlab.
 - Nghiên cứu Nagios
+
+## Thứ 3, ngày 19 tháng 10 năm 2021.
+- Tìm hiểu mattermost.
+- Tìm hiểu CI/CD.
+- Tìm hiểu Cyberpanel.
