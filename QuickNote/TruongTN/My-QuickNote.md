@@ -18,3 +18,8 @@
 - Tìm hiểu mattermost.
 - Tìm hiểu CI/CD.
 - Tìm hiểu Cyberpanel.
+
+## Thứ 4, ngày 20 tháng 10 năm 2021.
+- Tìm hiểu HAProxy
+- Xây dựng mattermost
+- Tiếp tục tìm hiểu CI/CD
