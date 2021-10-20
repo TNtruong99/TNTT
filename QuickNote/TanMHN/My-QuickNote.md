@@ -13,3 +13,8 @@
 # T3(19/10/2021)
 - Nghiên cứu tích hợp gitlab vào rocket.chat
 - Tìm hiểu mattermost 
+
+# T4(20/10/2021)
+- Tích hợp Oauth vào Rocket.Chat
+- Viết docs
+- Tìm hiểu nagios
