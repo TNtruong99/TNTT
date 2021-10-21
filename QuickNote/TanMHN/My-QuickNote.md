@@ -18,3 +18,7 @@
 - Tích hợp Oauth vào Rocket.Chat
 - Viết docs
 - Tìm hiểu nagios
+
+# T5(21/10/2021)
+- Triển khai nagios
+- Viết docs
