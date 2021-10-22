@@ -22,3 +22,6 @@
 # T5(21/10/2021)
 - Triển khai nagios
 - Viết docs
+
+# T6(22/10/2021)
+- Cấu hình nagios để giám sát PnetLab
