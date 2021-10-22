@@ -23,3 +23,11 @@
 - Tìm hiểu HAProxy
 - Xây dựng mattermost
 - Tiếp tục tìm hiểu CI/CD
+
+## Thứ 5, ngày 21 tháng 10 năm 2021.
+- Tìm hiểu và thực hiện các bài lab trên PnetLab
+- Tìm hiểu Gitlab nâng cao
+- Tiếp tục tìm hiểu CI/CD
+
+## Thứ 6, ngày 22 tháng 10 năm 2021.
+- Tiếp tục tìm hiểu CI/CD
