@@ -31,3 +31,7 @@
 
 ## Thứ 6, ngày 22 tháng 10 năm 2021.
 - Tiếp tục tìm hiểu CI/CD
+
+## Thứ 7, ngày 25 tháng 10 năm 2021.
+- Tìm hiểu Snipe-IT
+- 
