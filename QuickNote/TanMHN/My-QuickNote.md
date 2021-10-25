@@ -25,3 +25,6 @@
 
 # T6(22/10/2021)
 - Cấu hình nagios để giám sát PnetLab
+
+# T6(22/10/2021)
+- Tìm hiểu Snipe-IT
