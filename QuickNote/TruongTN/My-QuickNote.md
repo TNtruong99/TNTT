@@ -39,3 +39,8 @@
 ## Thứ 3, ngày 26 tháng 10 năm 2021.
 - Nghiên cứu các chức năng của Snipe-IT
 - Viết docs.
+
+## Thứ 4, ngày 27 tháng 10 năm 2021.
+- Nghiên cứu backup và restore Snipe-IT.
+- Viết docs.
+- Nghiên cứu lab Pnetlab.
